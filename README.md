@@ -11,17 +11,17 @@
 
 ```
 
-My name is:
+My name is Harrison Fernandez
 
-I like to:
+I love to listen to rap and hip-hop music.
 
-I'm learning:
+I'm learning HTML, CSS, and how to use Git and Github with Lambda School.
 
 ```
 
 4. Add a screenshot (.jpg or .png is fine) of a tweet you've altered using Inspect Element in Chrome to the project folder.
 
-4. Push it up to your own repository on Github (don't try to override the original).
+5. Push it up to your own repository on Github (don't try to override the original).
 
 ## Task Two ##
 
